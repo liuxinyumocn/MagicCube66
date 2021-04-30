@@ -1,0 +1,61 @@
+{
+  "ver": "1.3.24",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ba5bad64-a1e2-462b-be71-e82a8c669e77",
+  "files": [],
+  "subMetas": {
+    "b8162": {
+      "importer": "gltf-mesh",
+      "uuid": "ba5bad64-a1e2-462b-be71-e82a8c669e77@b8162",
+      "displayName": "",
+      "id": "b8162",
+      "name": "pCube1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "29adf": {
+      "importer": "gltf-scene",
+      "uuid": "ba5bad64-a1e2-462b-be71-e82a8c669e77@29adf",
+      "displayName": "",
+      "id": "29adf",
+      "name": "cube.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "redirect": "ba5bad64-a1e2-462b-be71-e82a8c669e77@29adf",
+    "assetFinder": {
+      "meshes": [
+        "ba5bad64-a1e2-462b-be71-e82a8c669e77@b8162"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0498e15f-0820-4841-8af8-20f901089a44"
+      ],
+      "scenes": [
+        "ba5bad64-a1e2-462b-be71-e82a8c669e77@29adf"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Materials_cube"
+  }
+}
